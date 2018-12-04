@@ -1,4 +1,4 @@
-```yaml
+
 ---
 title: "R_CLUB: Basic Data Interactive Visualization"
 author: "WASEEM HUSSAIN"
@@ -7,7 +7,6 @@ output:
   html_document: 
     keep_md: yes
 ---
-```
 ***Load and install the packages***
 ```{r, message=FALSE}
  packages = c("ggplot2", "dplyr", "grid", "ggthemes","plotly", "forcats", "car")
